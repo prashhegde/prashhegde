@@ -143,7 +143,6 @@ python-dotenv==1.0.0
 python-json-logger==2.0.7
 python-multipart==0.0.6
 pytz==2023.3
-pywin32==301  # Adjust the version number to one that is compatible with your Python version
 pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.2
